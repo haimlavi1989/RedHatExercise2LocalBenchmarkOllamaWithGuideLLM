@@ -1,1 +1,1 @@
-# Red-Hat-Exercise2---Local-Benchmark-of-Ollama-Using-GuideLLM
+# RedHatExercise2LocalBenchmarkOllamaWithGuideLLM
